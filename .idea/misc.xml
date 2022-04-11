@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/drawable-v24/change_selected_item.xml" value="0.1775" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/drawable/borders.xml" value="0.166" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/drawable/bordersx.xml" value="0.1645" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/drawable/button_management.xml" value="0.1775" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/drawable/g_layout.xml" value="0.121" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/drawable/movingbackground.xml" value="0.1775" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/drawable/rounded_edge.xml" value="0.1775" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/drawable/roundimage.xml" value="0.1645" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/layout/activity_main.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/layout/activity_main_screen.xml" value="0.25" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/layout/alert_single_row.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/layout/fragment_alerts.xml" value="0.25" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/layout/fragment_favorite.xml" value="0.25" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/layout/fragment_favorite_auto_complete.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/layout/fragment_favorite_cities.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/layout/fragment_favorite_manage.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/layout/fragment_settings.xml" value="0.25" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/layout/fragment_settings_advanced.xml" value="0.25" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/layout/fragment_settings_location.xml" value="0.25" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/layout/fragment_sign_in_screen.xml" value="0.25" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/layout/fragment_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/layout/nav_header.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/layout/sign_in_screen_fragment.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/layout/single_row_for_cities.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/layout/singlecolumn.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/layout/singlerowdaily.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/ahmad/AndroidStudioProjects/WeatherForcastApp/app/src/main/res/menu/navegation_menu.xml" value="0.25" />
+        <entry key="..\:/Users/ahmad/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/select_dialog_item.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/ahmad/OneDrive/Desktop/KotlinToGo/WeatherForcastApp/app/src/main/res/layout/fragment_alerts.xml" value="0.245018115942029" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

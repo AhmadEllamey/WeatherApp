@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">WeatherForcastApp</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="userName">اسم المستخدم</string>
+    <string name="password">كلمه السر</string>
+    <string name="signin">تسجيل الدخول</string>
+    <string name="forgot_password">هل نسيت كلمة السر ؟</string>
+    <string name="gmail_login">تواصل مع GMail</string>
+    <string name="continue_as">--------- تابع كـ ---------</string>
+    <string name="weather_forecast">النشرة الجوية</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="by_continue_you_agree_on_our_terms_and_conditions">بالمتابعة فإنك توافق على الشروط والأحكام الخاصة بنا</string>
+    <string name="sign_up">اشتراك</string>
+    <string name="by_signing_up_you_agree_on_our_terms">بالتسجيل فإنك توافق على شروطنا</string>
+    <string name="rePassword">إعادة إدخال كلمة المرور</string>
+    <string name="don_t_have_an_account_sign_up">ليس لديك حساب؟ اشتراك</string>
+    <string name="log_out">تسجيل الخروج</string>
+    <string name="alerts">المنبهات</string>
+    <string name="favorite">المفضله</string>
+    <string name="settings">الاعدادات</string>
+    <string name="home">الرئيسيه</string>
+    <string name="locationTab">المكان</string>
+    <string name="advancedTab">متقدمه</string>
+    <string name="choose_your_location">اختر موقعك</string>
+    <string name="long_press_to_choose_the_location">ضغطه مطوله لاختيار المكان</string>
+    <string name="english">الانجليزيه</string>
+    <string name="arabic">العربيه</string>
+    <string name="language">اللغه</string>
+    <string name="miles_hour">ميل/س</string>
+    <string name="meter_sec">م/ث</string>
+    <string name="wind_speed_unit">وحدة سرعة الرياح</string>
+    <string name="fahrenheit">فهرنهايت</string>
+    <string name="celsius">مئويه</string>
+    <string name="kelvin">كيفن</string>
+    <string name="temperature_unit">وحده قياس الحراره</string>
+    <string name="degree">الدرجه</string>
+    <string name="date">تاريخ</string>
+    <string name="humidity">رطوبه</string>
+    <string name="_00_00">00.00</string>
+    <string name="wind">رياح</string>
+
+    <string name="clouds">سحاب</string>
+    <string name="ultra_violet">فوق بنفسجي</string>
+
+    <string name="visibility">الرؤية</string>
+    <string name="pressure">الضغط</string>
+    <string name="weather_state">حاله الطقس</string>
+    <string name="name_for_header">الاسم :</string>
+    <string name="textview">TextView</string>
+    <string name="manageCities">اداره</string>
+    <string name="citiesTab">المدن</string>
+    <string name="long_press_to_add_a_place">ضغطه مطوله لاضافه مكان</string>
+    <string name="add_favorite_from_map">اضافه مدينه مفضله من الخريطه</string>
+    <string name="manage_favorite_cities">اداره المدن المفضله</string>
+    <string name="city_name_fav">اسم المدينه المفضله</string>
+    <string name="add">اضافه</string>
+    <string name="city_name">اسم المدينه</string>
+    <string name="city_namex">اسم المدينه</string>
+    <string name="click_on_item_to_switch_to_this_city">اضغط علي المدينه لكي تتحول اليها</string>
+    <string name="long_press_to_remove_the_city">ضغطه مطوله لمسح المدينه</string>
+    <string name="favorite_cities">المدن المفضله</string>
+    <string name="notification_with_sounds">التنبيه مع صوت</string>
+    <string name="enable_alarm">السماح بالتنبيه</string>
+    <string name="allow_notifications">السماح بالاشعارات</string>
+    <string name="to">الي :</string>
+    <string name="from">من :</string>
+    <string name="alarm">منبه</string>
+</resources>
